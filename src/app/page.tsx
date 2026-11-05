@@ -13,7 +13,7 @@ export default function Home() {
     <main className="min-h-screen bg-white">
       <Navbar />
       <Hero />
-      <ClientLogos />
+      {/* ClientLogos section kept off per request */}
       <AboutSection />
       <ServicesSection />
       <WhyWorkWithUs />
